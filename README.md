@@ -1,6 +1,6 @@
 # Web Development session
 
-### Name:
-### Age: 
-### Bio: 
-### How to reach me:
+### Name: Gevorg
+### Age: 19
+### Bio: Student
+### How to reach me: 077 300 659
